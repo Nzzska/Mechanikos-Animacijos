@@ -17,3 +17,8 @@ https://user-images.githubusercontent.com/66420051/170874297-8a42a6d0-2fe3-46ea-
 
 https://user-images.githubusercontent.com/66420051/170874299-0029a399-a82f-4b38-9f79-348f84983db6.mp4
 
+<b> Poslinkis su/be pagreičiu ir su/be greičiu.
+  
+https://user-images.githubusercontent.com/66420051/171216941-da8d1f50-6874-4ce4-87b2-91383f81bef0.mp4
+
+
