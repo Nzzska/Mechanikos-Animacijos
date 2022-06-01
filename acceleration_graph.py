@@ -14,6 +14,31 @@ def pagreitis(t, a):
     return a
 
 class DerivativeExample(Scene):
+    def graph_sva(
+        self, 
+        all_axis,
+        s0, v0, a0,
+        t_start, t_end
+    ):
+        s_graph = all_axis['s_axis'].plot(
+            lambda t: poslinkis(t=t, s0=s0, v0=v0, a=a0),
+            x_range=[t_start, t_end]
+        )
+        v_graph = all_axis['v_axis'].plot(
+            lambda t: greitis(t=t, v0=v0, a=a0),
+            x_range=[t_start, t_end]
+        )
+        a_graph = all_axis['a_axis'].plot(
+            lambda t: pagreitis(t=t, a=a0),
+            x_range=[t_start, t_end]
+        )
+
+        return {
+            's':s_graph,
+            'v':v_graph,
+            'a':a_graph
+        }
+
     def sva_axes(self):
         #Acceleration
         a_axis = Axes(
@@ -75,6 +100,12 @@ class DerivativeExample(Scene):
 
     def construct(self):
         all_axis = self.sva_axes()
+        sva_g1 = self.graph_sva(all_axis, 5, 0, 0, 0, 4.5)
+        sva_g2 = self.graph_sva(all_axis, 2, 1, 0, 0, 4.5)
+        sva_g3 = self.graph_sva(all_axis, 1, 0.5, 0.5, 0, 4.5)
+        self.add(
+            sva_g1['s'], sva_g1['v'], sva_g1['a']
+        )
         self.add(
             all_axis['a_axis'].set(color=PURPLE),
             all_axis['v_axis'].set(color=BLUE),
@@ -82,6 +113,18 @@ class DerivativeExample(Scene):
             all_axis['a_labels'].set(color=PURPLE),
             all_axis['v_labels'].set(color=BLUE),
             all_axis['s_labels'].set(color=GREEN)
+        )
+        self.wait(3)
+        self.play(
+            ReplacementTransform(sva_g1['s'], sva_g2['s']),
+            ReplacementTransform(sva_g1['v'], sva_g2['v']),
+            ReplacementTransform(sva_g1['a'], sva_g2['a'])
+        )
+        self.wait(3)
+        self.play(
+            ReplacementTransform(sva_g2['s'], sva_g3['s']),
+            ReplacementTransform(sva_g2['v'], sva_g3['v']),
+            ReplacementTransform(sva_g2['a'], sva_g3['a'])
         )
 
 class DisplacementGraph(Scene):

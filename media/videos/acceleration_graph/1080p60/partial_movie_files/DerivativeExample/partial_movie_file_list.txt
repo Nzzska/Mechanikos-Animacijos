@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/acceleration_graph/1080p60/partial_movie_files/DerivativeExample/2724823860_2413715355_1996660870.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/acceleration_graph/1080p60/partial_movie_files/DerivativeExample/1164547788_3299895854_896566870.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/acceleration_graph/1080p60/partial_movie_files/DerivativeExample/1164547788_2569718023_1253011096.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/acceleration_graph/1080p60/partial_movie_files/DerivativeExample/1164547788_309091221_3443224481.mp4'
