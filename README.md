@@ -9,6 +9,12 @@ https://user-images.githubusercontent.com/66420051/170874152-b34d6023-a923-43ea-
 
 https://user-images.githubusercontent.com/66420051/170874304-c0d18c65-09f7-4fc6-a334-642e03360943.mp4
 
+<b>Vektorių komponentai:</b>
+
+
+https://user-images.githubusercontent.com/66420051/172445064-960ee887-75a1-403f-af70-358acff236c9.mp4
+
+
 <b>Nuožulnioji plokštuma:</b>
 
 https://user-images.githubusercontent.com/66420051/170874297-8a42a6d0-2fe3-46ea-8330-d1170b3ed968.mp4
