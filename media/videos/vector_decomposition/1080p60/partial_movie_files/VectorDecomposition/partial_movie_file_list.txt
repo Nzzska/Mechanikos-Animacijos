@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/2724823860_261523005_223132457.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/1164547788_206711513_209700417.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/1164547788_2803604420_1263522245.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/1164547788_3641834368_2960335812.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/1164547788_155304102_419439507.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/1164547788_1621202350_1815852693.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/1164547788_4291723683_3615465053.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/vector_decomposition/1080p60/partial_movie_files/VectorDecomposition/1164547788_2569718023_3648558649.mp4'
