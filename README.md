@@ -23,4 +23,11 @@ https://user-images.githubusercontent.com/66420051/171216941-da8d1f50-6874-4ce4-
   
 
 https://user-images.githubusercontent.com/66420051/171436804-849e11b7-3e16-4160-8744-8ade9d35290b.mp4
+  
+ 
+  <b>Funkcijos:</b>
+
+
+
+https://user-images.githubusercontent.com/66420051/171794394-990c37f8-bfb4-47ad-a51d-d2a5c9cb1ecd.mp4
 
