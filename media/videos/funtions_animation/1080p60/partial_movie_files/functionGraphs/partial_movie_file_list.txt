@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/funtions_animation/1080p60/partial_movie_files/functionGraphs/2724823860_1746504055_3073499576.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/funtions_animation/1080p60/partial_movie_files/functionGraphs/1164547788_3375341780_3991005903.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/funtions_animation/1080p60/partial_movie_files/functionGraphs/1164547788_3388611543_1273809162.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/funtions_animation/1080p60/partial_movie_files/functionGraphs/1164547788_3891180042_3447080292.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/funtions_animation/1080p60/partial_movie_files/functionGraphs/1164547788_3056982968_2456008351.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/funtions_animation/1080p60/partial_movie_files/functionGraphs/1164547788_3375341780_1507870718.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/funtions_animation/1080p60/partial_movie_files/functionGraphs/1164547788_199691535_4237122332.mp4'
