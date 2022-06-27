@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/trigonomery_simple/1080p60/partial_movie_files/RotatingTriangle/2724823860_3254511395_1676964864.mp4'

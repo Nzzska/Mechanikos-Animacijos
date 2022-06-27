@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/450974505_577628258_45537249.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/34786186_2005037592_805195879.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/34786186_384422633_3910023791.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/34786186_2005037592_2450045725.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/34786186_2368789261_3384667875.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/34786186_2374109429_1416400324.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/34786186_3684209062_479329617.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/fizikiniai_reiskiniai_animacijos/Mechanikos-Animacijos/media/videos/pendulum/1080p60/partial_movie_files/PendulumScene/34786186_2374109429_371843645.mp4'

@@ -152,7 +152,7 @@ class PendulumScene(Scene):
         )
 
         gravity_line = NumberLine(
-            x_range=[0, 13, 2],
+            x_range=[0, 5, 1],
             length=6,
             include_tip=True,
             include_numbers=True,
@@ -178,6 +178,22 @@ class PendulumScene(Scene):
         )
         pendulum.add_updater(
             lambda m, dt: self.update_pendulum(m, dt, weight_tracker)
+        )
+        txt = \
+            '''
+            Matematinę švytuoklę veikia 2 jėgos. \n
+            Siūlo įtempimo (vektorius T) ir sunkio (mg), \n
+            Šių jėgų suma mums suteikia pagreitį (a), \n
+            o pagreitis yra kryptis ir dydis pagal kuria \n
+            kinta greitis (v).
+            '''
+        tekstas = Text(
+            txt,
+            color=BLUE,
+            z_index=3
+        ).shift(2*UP+2*LEFT).scale(0.4)
+        self.play(
+            Write(tekstas)
         )
         self.wait(5)
         self.play(
